@@ -2,9 +2,9 @@ server:
   port: 9191
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/registration_db
+    url: jdbc:mysql://localhost:3306/registration_database
     username: root
-    password: admin
+    password: K150205k
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:

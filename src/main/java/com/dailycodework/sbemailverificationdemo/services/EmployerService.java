@@ -4,6 +4,5 @@ import com.dailycodework.sbemailverificationdemo.enteties.Employer;
 public interface EmployerService {
     Employer saveEmployer(Employer employer);
     Employer getEmployerByUserId(Long userId);
-    // Other employer-related methods
 }
 
